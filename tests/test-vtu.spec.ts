@@ -529,8 +529,8 @@ const outcomes = [
   await page.goto("https://vtu.internyet.in/sign-in", { waitUntil: "domcontentloaded" });
   await page.waitForTimeout(1500);
 
-  await page.getByRole("textbox", { name: "Enter your email address" }).fill("ENTER_YOUR_EMAIL_HERE");
-  await page.getByRole("textbox", { name: "Password" }).fill("ENTER_YOUR_PASSWORD_HERE");
+  await page.getByRole("textbox", { name: "Enter your email address" }).fill("bhoomikams004@gmail.com");
+  await page.getByRole("textbox", { name: "Password" }).fill("Bhoomika@1212");
   await page.getByRole("button", { name: "Sign In" }).click();
 
   // Wait until we leave the sign-in page
