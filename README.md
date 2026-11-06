@@ -169,7 +169,7 @@ For custom automation or support, create an issue in the repository.
 If this project helps you, give it a ⭐ on GitHub!
 
 
-git clone https://github.com/Vijay417-sys/internship_dairy.git
+git clone https://github.com/Bhoomika7676/internship_dairy.git
 cd internship_dairy
 npm install
 npx playwright install chromium
