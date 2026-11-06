@@ -148,7 +148,7 @@ You can change:
 
 ## 📎 Repository
 
-https://github.com/Vijay417-sys/internship_diary
+https://github.com/Bhoomika7676/internship_diary
 
 ---
 
